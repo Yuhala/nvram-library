@@ -3,8 +3,8 @@ This repository contains a list of some important nvram-related papers and links
 
 ## NVRAM Papers
 
-* [Andy Rudoff-Pmem-Programming](Andy Rudoff-Pmem-Programming.pdf)
-* [Basic Performance Measurements for NVRAM](Basic Performance Measurements for NVRAM.pdf)
+* [Andy Rudoff-Pmem-Programming](Andy-Rudoff-Pmem-Programming.pdf)
+* [Basic Performance Measurements for NVRAM](Basic-Performance-Measurements-for-NVRAM.pdf)
 
 ## NVRAM Web Links
 
