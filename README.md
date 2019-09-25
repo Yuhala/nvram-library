@@ -1,5 +1,5 @@
-# NVRAM-Repo
-This repository contains a list of some important nvram-related papers and links.
+# NVRAM-Library
+This repository contains a list of some important nvram-related papers, presentations, web pages and youtube videos.
 
 ## NVRAM Papers
 
@@ -12,6 +12,23 @@ This repository contains a list of some important nvram-related papers and links
 * [Intel: Speeding up I/O workloads with Intel Optane DC persistent memory modules](https://software.intel.com/en-us/articles/speeding-up-io-workloads-with-intel-optane-dc-persistent-memory-modules)
 * [Cascade Lake-Microarchitectures-Intel](https://en.wikichip.org/wiki/intel/microarchitectures/cascade_lake)
 
+## NVRAM Videos
+
+### PIRL
+
+* [PIRL 2019: An Empirical Guide to Using 3DXPoint Memory (Joe Izraelevitz, UC San Diego)](https://youtu.be/oMhtxDXGSfc)
+
+### Intel
+* [Persistent Memory Library](https://software.intel.com/en-us/persistent-memory/library)
+* [Persistent Memory Developer Training](https://software.intel.com/en-us/pmem-training)
+
+### Usenix
+* [FAST '19 - Ziggurat: A Tiered File System for Non-Volatile Main Memories and Disks](https://youtu.be/nYrr9bzr7Y0)
+
+### Lenovo services
+* [How to enable Intel® Optane™ DC Persistent Memory Module security settings through UEFI](https://youtu.be/ATif9QFKTNE)
+
+## NVRAM Presentations
 
 
 ## Authors
