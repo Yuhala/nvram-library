@@ -1,18 +1,18 @@
-# NVRAM-Library
-This repository contains a list of some important nvram-related papers, presentations, web pages and youtube videos.
+# Persistent memory (PM) - Library
+This repository contains a list of some important PM-related papers, presentations, web pages and youtube videos.
 
-## NVRAM Papers
+## PM Papers
 
 * [Andy Rudoff-Pmem-Programming](papers/Andy-Rudoff-Pmem-Programming.pdf)
 * [Basic Performance Measurements for NVRAM](papers/Basic-Performance-Measurements-for-NVRAM.pdf)
 
-## NVRAM Web Links
+## PM Web Links
 
 * [Intel: Answers to your questions about persistent memory programming](https://software.intel.com/en-us/persistent-memory/support)
 * [Intel: Speeding up I/O workloads with Intel Optane DC persistent memory modules](https://software.intel.com/en-us/articles/speeding-up-io-workloads-with-intel-optane-dc-persistent-memory-modules)
 * [Cascade Lake-Microarchitectures-Intel](https://en.wikichip.org/wiki/intel/microarchitectures/cascade_lake)
 
-## NVRAM Videos
+## PM Videos
 
 ### PIRL
 
@@ -28,7 +28,7 @@ This repository contains a list of some important nvram-related papers, presenta
 ### Lenovo services
 * [How to enable Intel® Optane™ DC Persistent Memory Module security settings through UEFI](https://youtu.be/ATif9QFKTNE)
 
-## NVRAM Presentations
+## PM Presentations
 
 
 ## Authors
